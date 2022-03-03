@@ -70,7 +70,19 @@
       <div class="col-12 col-md-5">
         <div class="owl-carousel owl-theme" id="two">
           <div class="item">
-            <img src="img/GHI poster final.png" alt="">
+            <img src="img/GHI.jpeg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/GHI1.jpeg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/GHI2.jpeg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/GHI3.jpeg" alt="">
+          </div>
+          <div class="item">
+            <img src="img/GHI4.jpeg" alt="">
           </div>
         </div>
       </div>
