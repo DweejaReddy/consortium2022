@@ -32,6 +32,17 @@
 
     <h1 class="text-white text-center mt-5" style="font-weight: bold;" >EVENTS</h1>
     <div class="row align-items-center text-center mx-0 mb-3 text-white">
+
+    <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
+            <img src="img/crypto poster 1.png" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">CRYPTOWIN</h5>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">A real time Crypto Trading Event played with virtual cryptocurrency to get firsthand experience of the real cryptocurrency market without the risk of
+losing real money.</h6>
+              <div class="col-md-12 text-right mb-5 mt-2">
+                <a href="./cryptowin" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            </div>
+          </div>
       
     <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->

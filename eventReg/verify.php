@@ -170,11 +170,12 @@
             <?php if( mysqli_num_rows($cryptowin)): ?>
             <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
                 <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
-                <img src="../img/suc.jpeg" alt="">
+                <img src="../img/crypto poster 1.png" alt="">
                 <h5 class="mt-2 text-center" style="font-weight: bold;">Cryptowin</h5>
-                <h6 class="mt-2 mx-2 pb-3 text-white text-left desc">StartUp Conclave is a national-level business plan competition to facilitate and encourage this vision of promoting entrepreneurship for a brighter future in India.</h6>
+                <h6 class="mt-2 mx-2 pb-3 text-white text-left desc">A real time Crypto Trading Event played with virtual cryptocurrency to get firsthand experience of the real cryptocurrency market without the risk of
+losing real money.</h6>
                 <div class="col-md-12 text-right mb-5 mt-2">
-                    <a href="https://startupconclave.ecellvnit.org/" target="_blank"><button type="button" class="btn btn4" style="margin-top: -8px;">Register Now</button></a>
+                    <a href="https://consortium.ecellvnit.org/cryptowin/" target="_blank"><button type="button" class="btn btn4" style="margin-top: -8px;">Register Now</button></a>
                 </div>
             </div>
             <?php endif; ?>
