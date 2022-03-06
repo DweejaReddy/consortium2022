@@ -139,7 +139,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION STARTS</h3>
-                <h4>5 th March, 2022</h4>
+                <h4>6 th March, 2022</h4>
               </div>
               <div class="circle">
                 <p>1</p>
@@ -190,7 +190,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
               <h3>REGISTRATION STARTS</h3>
-                <h4>5 th March, 2022</h4>
+                <h4>6 th March, 2022</h4>
               </div>
               <div class="circle" style="left: 27px;margin-left: -18px;">
                 <p>1</p>
