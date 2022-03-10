@@ -35,6 +35,16 @@
 
     <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
+            <img src="img/Render-ico-launch_01.png" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">RENDER .ICO</h5>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">Render.ico is a logo design competition created with the intent to couple one’s creativity with their business mind and create a design which would inspire and be communicative. </h6>
+              <div class="col-md-12 text-right mb-5 mt-2">
+                <a href="./render" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            </div>
+    </div>
+
+    <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
             <img src="img/crypto poster 1.png" alt="">
             <h5 class="mt-2" style="font-weight: bold;">CRYPTOWIN</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">A real time Crypto Trading Event played with virtual cryptocurrency to get firsthand experience of the real cryptocurrency market without the risk of
