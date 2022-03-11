@@ -29,7 +29,7 @@
             die("Connection failed: " . mysqli_connect_error());
         }
 
-        $sql = "SELECT sno, name, email, phone, college, course, year FROM wallstreet";
+        $sql = "SELECT sno, name, email, phone, college, course, year FROM render";
         $result = mysqli_query($conn, $sql);
         
     ?>
