@@ -35,6 +35,16 @@
 
     <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
+            <img src="img/adventure.jpg" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">AD-VENTURE</h5>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">Ad-venture is an advertisement making competition that would test one's skill of coupling creativity with their marketing strategy.</h6>
+              <div class="col-md-12 text-right mb-5 mt-2">
+                <a href="./adventure" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            </div>
+    </div>
+
+    <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
             <img src="img/Render-ico-launch_01.png" alt="">
             <h5 class="mt-2" style="font-weight: bold;">RENDER .ICO</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">Render.ico is a logo design competition created with the intent to couple one’s creativity with their business mind and create a design which would inspire and be communicative. </h6>
