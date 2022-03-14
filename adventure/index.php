@@ -5,7 +5,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon_io/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="img/favicon_io/favicon-16x16.png">
 <link rel="manifest" href="img/favicon_io/site.webmanifest">
-    <title>WALLSTREET | Consortium '22, E-CELL, VNIT, 2022</title>
+    <title>ADVENTURE | Consortium '22, E-CELL, VNIT, 2022</title>
 </head>
 <?php include('includes/header.php')?>
 <link rel="stylesheet" href="css/eventStyle.css">
@@ -26,12 +26,12 @@
                   </p>
                 <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
                 <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br> -->
-                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
+                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-6 mt-2">Last Date: 18th March</p></div>
                   
                 <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
                         <div class="item">
-                            <img src="img/adventure.jpg" alt="">
+                            <img src="img/ADVENTURE poster.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
                 <div class="item">
-                            <img src="img/adventure.jpg" alt="">
+                            <img src="img/ADVENTURE poster.jpg" alt="">
                         </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                 <div class="text-center mt-3 px-5">
                     <a href="register.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
                     <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a> -->
-                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
+                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 18th March</p></div>
                 </div></div>
         </div>
     </section>
@@ -126,7 +126,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION STARTS</h3>
-                <h4>12th march, 2022</h4>
+                <h4>14th march, 2022</h4>
               </div>
               <div class="circle">
                 <p>1</p>
@@ -142,7 +142,7 @@ Our experts will shortlist the contenders for the first round based on their cri
               <div class="link"></div>
               <div class="square down" data-aos="fade-up" data-aos-duration="2000">
                 <h3>REGISTRATION ENDS</h3>
-                <h4>15th march, 2022</h4>
+                <h4>17th march, 2022</h4>
               </div>
             </div>
             <div class="block">
@@ -177,7 +177,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
               <h3>REGISTRATION STARTS</h3>
-                <h4>12th march, 2022</h4>
+                <h4>14th march, 2022</h4>
               </div>
               <div class="circle" style="left: 27px;margin-left: -18px;">
                 <p>1</p>
@@ -194,7 +194,7 @@ Our experts will shortlist the contenders for the first round based on their cri
               <div class="link"></div>
               <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
               <h3>REGISTRATION ENDS</h3>
-                <h4>15th march, 2022</h4>
+                <h4>17th march, 2022</h4>
               </div>
             </div>
           
