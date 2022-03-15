@@ -32,7 +32,7 @@
                 <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
                         <div class="item">
-                            <img src="img/ADVENTURE poster.jpg" alt="">
+                            <img src="img/ADVENTURE final.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
                 <div class="item">
-                            <img src="img/ADVENTURE poster.jpg" alt="">
+                            <img src="img/ADVENTURE final.jpg" alt="">
                         </div>
                 </div>
             </div>
