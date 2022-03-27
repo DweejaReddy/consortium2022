@@ -72,7 +72,7 @@
         <a class="btn btnth" type="submit"" href="logout.php" role="button">Log Out</a>
         </li>
         <li class="nav-item d-block d-lg-none text-center">
-          <a class="btn btnth my-3" type="submit" href="../consoRegister.php" target="_blank" role="button">Register</a>
+          <a class="btn btnth my-3" type="submit" href="../register.php" target="_blank" role="button">Register</a>
         </li>
         <li class="nav-item d-block d-lg-none text-center">
         <a class="btn btnth my-3" type="submit""  href="logout.php" role="button">Log Out</a>
