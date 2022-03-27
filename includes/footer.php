@@ -3,8 +3,8 @@
 <body>
   <form action="store_details.php" method="post">
     <div class="footbg">
-    <img class="redc" src="img/redcurve1.png" alt="" width="100%" ">
-    <img class="whitec" src="img/whitecurve2.png" alt="" width="100%">
+    <img class="red" src="img/redcurve1.png" alt="" width="100%" ">
+    <img class="white" src="img/whitecurve2.png" alt="" width="100%">
     </div>
 
     <div class="foot">
