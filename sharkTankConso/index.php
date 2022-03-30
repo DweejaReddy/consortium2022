@@ -41,14 +41,18 @@
 
     <div id="home" class="d-none d-lg-block">
         <div id="logo"><img src="img/Shark tank conso.png" alt=""></div>
-        <div id="prize"><img src="img/10 Lakh - 10 million.png" width="60%" alt=""></div>
+        <div id="prize"><img src="img/10 lakhs.png" width="80%" alt=""></div>
         <div id="sent"><img src="img/10 .png" width="50%" alt=""></div>
     </div>
     <div id="home_mob" class="d-block d-lg-none">
-        <div id="logo_mob"><img src="img/Shark tank conso.png" width="92%" alt=""></div>
-        <div id="prize_mob"><img src="img/10 Lakh - 10 million.png" width="95%" alt=""></div>
-        <div id="sent_mob"><img src="img/10 .png" width="65%" alt=""></div>
+        <div id="logo_mob" class="text-center"><img src="img/Shark tank conso.png" width="92%" alt=""></div>
+        <div id="prize_mob" class="text-center"><img src="img/10 lakhs.png" width="80%" alt=""></div>
+        <div id="sent_mob" class="text-center"><img src="img/10 .png" width="65%" alt=""></div>
     </div>
+    
+    <button type="button" class="btn btn-danger btn-floating btn-lg shake" id="btn-back-to-top">
+       Register Now
+      </button>
     <!-- ==============================ABOUT SECTION============================= -->
     <section class="container d-none d-lg-block " id="about">
         <div class="heading text-center my-5" data-aos="fade-up" data-aos-duration="2000" style="color: #d5242a;font-size: 3vw;font-weight: 800;">ABOUT</div>
@@ -147,7 +151,7 @@
             <!-- Competition Structure -->
             <div id="structure">
                 <div id="closestructre" class="container g-padding-y-40--xs g-padding-y-40--sm">
-                    <div class="g-text-center--xs g-margin-b-100--xs">
+                    <div class="g-text-center--xs g-margin-b-50--xs">
                         <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Start-up Conclave</p>-->
                         <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white g-padding-y-30--sm">Competition
                             Structure</h2>
@@ -156,17 +160,18 @@
                         <!-- Process -->
                         <li class="col-sm-3 col-xs-3 g-full-width--xs s-process-v1 g-margin-b-60--xs g-margin-b-0--md">
                             <div class="center-block g-text-center--xs">
-                                <div class="g-margin-b-30--xs">
+                                <div class="">
                                     <span
                                         class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle"
                                         style="color: #bd2026">01</span>
                                 </div>
                                 <div class="g-padding-x-20--xs">
                                     <h3 class="g-font-size-22--xs g-color--white">Stage 01</h3>
+                                    <h3 class="g-font-size-22--xs g-color--red">Event Launch</h3>
                                     <p class="g-color--white g-font-size-20--xs">The registration portal opens and startups can register themselves on the portal.</p>
                                     <p
                                         class="text-uppercase g-font-size-20--xs g-color--red g-font-weight--400 g-letter-spacing--1 g-margin-b-25--xs">
-                                       28 March 2022</p>
+                                        31 MARCH 2022</p>
                                     
                                 </div>
                             </div>
@@ -182,10 +187,11 @@
                                 </div>
                                 <div class="g-padding-x-20--xs">
                                     <h3 class="g-font-size-22--xs g-color--white">Stage 02</h3>
+                                    <h3 class="g-font-size-22--xs g-color--red">Registration Deadline</h3>
                                     <p class="g-color--white g-font-size-20--xs">The registration portal closes at 11:59:59 PM.</p>
                                     <p
                                         class="text-uppercase g-font-size-20--xs g-color--red g-font-weight--400 g-letter-spacing--1 g-margin-b-25--xs">
-                                       4 April 2022</p>
+                                       5 April 2022</p>
                                     
                                 </div>
                             </div>
@@ -195,13 +201,14 @@
                         <!-- Process -->
                         <li class="col-sm-3 col-xs-3 g-full-width--xs s-process-v1 g-margin-b-60--xs g-margin-b-0--sm">
                             <div class="center-block g-text-center--xs">
-                                <div class="g-margin-b-30--xs">
+                                <div class="">
                                     <span
                                         class="g-display-inline-block--xs g-width-100--xs g-height-100--xs g-font-size-38--xs g-bg-color--white g-box-shadow__dark-lightest-v4 g-padding-x-20--xs g-padding-y-20--xs g-radius--circle"
                                         style="color: #bd2026">03</span>
                                 </div>
                                 <div class="g-padding-x-20--xs">
                                     <h3 class="g-font-size-22--xs g-color--white">Stage 03</h3>
+                                    <h3 class="g-font-size-22--xs g-color--red">Result declaration</h3>
                                     <p class="g-color--white g-font-size-20--xs">List of Top-10 startups who will be able to pitch will be announced.
                                     </p>
                                     <p
@@ -223,6 +230,7 @@
                                 </div>
                                 <div class="g-padding-x-20--xs">
                                     <h3 class="g-font-size-22--xs g-color--white">Stage 04</h3>
+                                    <h3 class="g-font-size-22--xs g-color--red">Shark Tank Conso (12pm-3pm)</h3>
                                     <p class="g-color--white g-font-size-20--xs">The final event will be held.</p>
                                     <p
                                         class="text-uppercase g-font-size-20--xs g-color--red g-font-weight--400 g-letter-spacing--1 g-margin-b-25--xs">
@@ -233,6 +241,11 @@
                         </li>
                         <!-- End Process -->
                     </ul>
+                </div>
+
+                <div class="text-center ">
+                    <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-4" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-right" data-aos-duration="1000" href="" target="_blank" role="button"> REGISTER NOW</a>
+                      <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-5" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-left" data-aos-duration="1000" href="" target="_blank" role="button"> BROCHURE</a>
                 </div>
             </div>
 
@@ -668,12 +681,12 @@
             <p class="px-3 my-4">For any event related queries, do reach out to us</p>
             <div class="row align-items-center">
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
-                    <h5 class="mt-2 pt-3">Nikhil Vanjari</h5>
-                    <a class="ml-4" href="https://www.linkedin.com/in/nikhil-vanjari-70a20a20a/" target="_blank" >
+                    <h5 class="mt-2 pt-3">Atharv Borkute</h5>
+                    <a class="ml-4" href="https://www.linkedin.com/in/atharv-borkute-5a396620b" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
                     <!-- <div class="name">bhargav@gmail.com</div> -->
-                    <div class="phone pb-4" style="margin-top: -30px;">+91 86259 75215</div>
+                    <div class="phone pb-4" style="margin-top: -30px;">+91 80106 10772</div>
                 </div>
                 <!-- <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Sourabh Bedkute</h5>
@@ -681,25 +694,25 @@
                     <div class="phone pb-4" style="margin-top: -30px;">+91 91563 77253</div>
                 </div> -->
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
-                    <h5 class="mt-2 pt-3">Sanyam Solanki</h5>
-                    <a class="ml-4" href="https://www.linkedin.com/in/sanyam-solanki-907455207/" target="_blank" >
+                    <h5 class="mt-2 pt-3">Siddhi Chobe</h5>
+                    <a class="ml-4" href="https://www.linkedin.com/in/siddhi-chobe-10b346219" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
-                    <div class="phone pb-4" style="margin-top: -30px;">+91 83496 38153</div>
+                    <div class="phone pb-4" style="margin-top: -30px;">+91 91759 50453</div>
                 </div>
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
-                    <h5 class="mt-2 pt-3">Satyan Patil</h5>
-                    <a class="ml-4" href="https://www.linkedin.com/in/satyan-patil-2938a0210/" target="_blank" >
+                    <h5 class="mt-2 pt-3">Akanksha Dudhe</h5>
+                    <a class="ml-4" href="https://www.linkedin.com/in/akanksha-dudhe-600444205" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
-                    <div class="phone pb-4" style="margin-top: -30px;">+91 70589 18311</div>
+                    <div class="phone pb-4" style="margin-top: -30px;">+91 72182 21890</div>
                 </div>
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
-                    <h5 class="mt-2 pt-3">Shubham Kaurati</h5>
-                    <a class="ml-4" href="https://www.linkedin.com/in/shubham-kaurati-9bb586202/" target="_blank" >
+                    <h5 class="mt-2 pt-3">Vaishnavi Kench</h5>
+                    <a class="ml-4" href="https://www.linkedin.com/in/vaishnavi-kench-a9651b211" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
-                    <div class="phone pb-4" style="margin-top: -30px;">+91 82759 10927</div>
+                    <div class="phone pb-4" style="margin-top: -30px;">+91 93596 30766</div>
                 </div>
             </div>
         </div>
@@ -813,5 +826,21 @@
             $("html ,body").animate({ scrollTop: j }, 800);
         });
     </script>
+     <script>
+        let mybutton = document.getElementById("btn-back-to-top");
+     window.onscroll = function () {
+       scrollFunction();
+     };
+     function scrollFunction() {
+       if (
+         document.body.scrollTop > 20 ||
+         document.documentElement.scrollTop > 20
+       ) {
+         mybutton.style.display = "block";
+       } else {
+         mybutton.style.display = "none";
+       }
+     }
+      </script>
 </body>
 </html>

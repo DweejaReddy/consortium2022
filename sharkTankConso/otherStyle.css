@@ -24,16 +24,16 @@
 #logo_mob {
   position: absolute;
   top: 30%;
-  left: 8%;
+  left: 1%;
 }
 #prize {
   position: absolute;
-  top: 80%;
-  left: 12%;
+  top: 78%;
+  left: 22%;
 }
 #prize_mob {
   position: absolute;
-  top: 65%;
+  top: 63%;
   left: 6%;
 }
 #sent {
@@ -43,8 +43,8 @@
 }
 #sent_mob {
   position: absolute;
-  top: 80%;
-  left: 25%;
+  top: 81%;
+  left: 3%;
 }
 #structure,
 #ruleandregulations {
@@ -180,4 +180,25 @@
     .message{
         margin-top: 100px;
     }
+}
+#btn-back-to-top {
+  position: fixed;
+  bottom: 40px;
+  right: 30px;
+  display: none;
+  border-radius: 10px;
+  color: white;
+  background-color: #d5242a;
+  border: none;
+  z-index: 10;
+}
+.shake {
+  animation: shake-animation 0.8s ease infinite;
+}
+@keyframes shake-animation {
+ 0% { transform:translate(0,0) rotate(0deg)}
+ 25% { transform:translate(1px,1px) rotate(1deg)}
+ 50% { transform:translate(-1px,-1px) rotate(-1deg)}
+ 75% { transform:translate(2px,-1px) rotate(2deg) }
+ 100% { transform:translate(-1px,1px) rotate(-1deg)}
 }
