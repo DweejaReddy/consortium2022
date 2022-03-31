@@ -244,7 +244,7 @@
                 </div>
 
                 <div class="text-center ">
-                    <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-4" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-right" data-aos-duration="1000" href="" target="_blank" role="button"> REGISTER NOW</a>
+                    <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-4" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-right" data-aos-duration="1000" href="https://rzp.io/l/7sZIr7nO" target="_blank" role="button"> REGISTER NOW</a>
                       <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-5" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-left" data-aos-duration="1000" href="" target="_blank" role="button"> BROCHURE</a>
                 </div>
             </div>
@@ -254,7 +254,7 @@
     <div id="mentors" class="container-fluid g-padding-y-60--xs g-padding-y-80--sm" style="background-color: white;height: auto;">
         <div class="g-text-center--xs g-margin-b-80--xs" >
             <p class="text-uppercase g-font-size-50--xs g-font-weight--700 g-letter-spacing--2 g-margin-b-25--xs"
-                style="color: #bd2026">MENTORS</p>
+                style="color: #bd2026">PAST MENTORS</p>
         </div>
         <!-- Swiper -->
         <div class="s-swiper js__swiper-news swiper mySwiper">
