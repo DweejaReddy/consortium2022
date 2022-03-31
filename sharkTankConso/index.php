@@ -245,7 +245,7 @@
 
                 <div class="text-center ">
                     <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-4" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-right" data-aos-duration="1000" href="https://rzp.io/l/7sZIr7nO" target="_blank" role="button"> REGISTER NOW</a>
-                      <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-5" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-left" data-aos-duration="1000" href="" target="_blank" role="button"> BROCHURE</a>
+                      <a class="btn btn-dark bg btn1 btn my-3 mx-3 px-5" style="background-color: #d5242a;font-size: 20px;" data-aos="fade-left" data-aos-duration="1000" href="https://drive.google.com/drive/folders/1OrsBbIa2RyJKkKsMlgngqnAQradQc_Nj" target="_blank" role="button"> BROCHURE</a>
                 </div>
             </div>
 
