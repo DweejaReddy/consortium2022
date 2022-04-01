@@ -50,9 +50,9 @@
         <div id="sent_mob" class="text-center"><img src="img/10 .png" width="65%" alt=""></div>
     </div>
     
-    <button type="button" class="btn btn-danger btn-floating btn-lg shake" id="btn-back-to-top">
+    <a href="https://dare2compete.com/competition/shark-tank-conso-visvesvaraya-national-institute-of-technology-vnit-nagpur-278871" target="_blank"><button type="button" class="btn btn-danger btn-floating btn-lg shake" id="btn-back-to-top">
        Register Now
-      </button>
+      </button></a>
     <!-- ==============================ABOUT SECTION============================= -->
     <section class="container d-none d-lg-block " id="about">
         <div class="heading text-center my-5" data-aos="fade-up" data-aos-duration="2000" style="color: #d5242a;font-size: 3vw;font-weight: 800;">ABOUT</div>
