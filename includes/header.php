@@ -54,8 +54,14 @@
           <li class="nav-item">
             <a href="events.php" target="_blank" class="nav-link">Events</a>
           </li>
-          <li class="nav-item">
-           <a href="speakers.php" target="_blank" class="nav-link">Previous Speakers</a>
+          <li class="nav-item dropdown align-items-center">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Speakers
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item text-center text-white" href="panel.php" target="_blank">Consortium'22 Speakers</a>
+              <a class="dropdown-item text-center text-md-left text-white" href="speakers.php" target="_blank">Previous Speakers</a>
+            </div>
           </li>
           <li class="nav-item dropdown align-items-center">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
