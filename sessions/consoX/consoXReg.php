@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration | AdVenture</title>
+    <title>Registration | Conso X</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- external css  -->
@@ -14,12 +14,12 @@
     <link rel = "icon" href = "images/icon.png" type = "image/x-icon">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
-<body>
+<body style="background-image: url(../../img/hexbg.jpg);">
     <div class="container d-flex justify-content-center pt-3 shadow-lg p-3 mb-5 rounded">
         <div class="row align-items-center">
-            <form class="p-4" method="post" action="store_details.php">
+            <form class="p-4" method="post" action="store_consoX.php">
                 <div class="card-heading text-center">
-                    <h1 class="title pb-2">Registration</h1>
+                    <h1 class="title pb-2">Register for CONSO <sup>X</sup></h1>
                     <hr>
                 </div>
                 <div class="form-group row mb-2">

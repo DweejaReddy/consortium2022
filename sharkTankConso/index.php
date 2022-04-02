@@ -35,6 +35,10 @@
         <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
         <title>Shark Tank Conso | E-CELL, VNIT</title>
         <link rel="stylesheet" href="otherStyle.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon_io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon_io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon_io/favicon-16x16.png">
+        <link rel="manifest" href="../img/favicon_io/site.webmanifest">
 </head>
 <body style="background-color: black;">
     <?php include('header.php'); ?>
@@ -717,6 +721,10 @@
             </div>
         </div>
     </section>
+
+    <div class="text-center text-white py-5 px-5 container" style="background-color: #3a3a3a;border-radius: 20px;font-size: 18px;max-width: 80%;">
+    <div class="heading text-center my-2" style="color: #d5242a;font-size: 35px;font-weight: 800;">NOTE</div> All disputes relating to commercial fundings by the sharks are to be mutually resolved. Funding will be made after verifying all credentials , sales number and traction data pitched by the participant by the team of the concerned shark or VC. Faking any information during your pitch and submission will lead to direct disqualification.
+        E- Cell VNIT is a hosting partner of this event and is not responsible for any commercial funding commitments in due course of this event.</div>
 
     <footer id="nav_contact">
     <form action="store_details.php" method="post">
