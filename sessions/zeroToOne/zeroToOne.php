@@ -15,10 +15,10 @@
   <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">
   <div class="row align-items-center container1 text-center mx-auto" style="max-width: 90%;">
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-      <img style="width:300px; height:300px;" src="../../img/speakers_new/nikhil.jpg" alt="">
-      <h5 class="mt-2">NIKHIL DAXINI</h5>
+      <img style="width:300px; height:300px;" src="../../img/speakers_new/sathvik.png" alt="">
+      <h5 class="mt-2">SATHVIK VISHWANATHAN</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 pb-3 desig">Executive Director, Ernst & Young (EY)</h6>
+        <h6 class="my-2 pb-3 desig">Co-Founder & CEO of Unocoin,<br> Ted <sup>X</sup> speaker</h6>
     </div>
 
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
