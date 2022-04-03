@@ -68,14 +68,14 @@
             <img src="img/Content summit.png" alt="">
             <h5 class="mt-2" style="font-weight: bold;">Content Creators Summit</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc"></h6>
-              <div class="col-md-12 mb-5 mt-4">
+              <div class="col-md-12 mb-5 mt-5">
                 <a href="sessions/creator_summit/creator_summit.php" target="_blank"><button type="button" class="btn btn4 disabled">Coming Soon</button></a>
             </div>
           </div>
       
     <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">Growth Hacking Intern</span> -->
-            <img src="img/GHI.jpeg" alt="">
+            <img src="img/0 to 1-01.png" alt="">
             <h5 class="mt-2" style="font-weight: bold;">Zero to One - The Fintech Realm</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc"></h6>
               <div class="col-md-12 mb-5 mt-4">
