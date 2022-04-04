@@ -15,17 +15,17 @@
   <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">
   <div class="row align-items-center container1 text-center mx-auto" style="max-width: 90%;">
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-      <img style="width:300px; height:300px;" src="../../img/speakers_new/nikhil.jpg" alt="">
-      <h5 class="mt-2">NIKHIL DAXINI</h5>
+      <img style="width:300px; height:300px;" src="../../img/speakers_new/shivanshu.png" alt="">
+      <h5 class="mt-2">SHIVANSHU AGRAWAL</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 pb-3 desig">Executive Director, Ernst & Young (EY)</h6>
+        <h6 class="my-2 pb-3 desig">Instagram Content Creator <br> (1M+ Followers)</h6>
     </div>
 
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img style="width:300px; height:300px;" src="../../img/coming soon.png" alt="">
-        <h5 class="mt-2">COMING SOON</h5>
-          <!-- <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;"> -->
-          <!-- <h6 class="my-2 desig pb-3">Director & Head of Product, Twitter</h6> -->
+        <img style="width:300px; height:300px;" src="../../img/speakers_new/deepak.jpeg" alt="">
+        <h5 class="mt-2">DIGITAL DEEPAK</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Co-Founder and CEO at LearnToday.com</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
