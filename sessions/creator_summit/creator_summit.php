@@ -28,7 +28,7 @@
           <h6 class="my-2 desig pb-3">Co-Founder and CEO at LearnToday.com</h6>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4 d-none d-lg-block">
         <img style="width:300px; height:300px;" src="../../img/coming soon.png" alt="">
         <h5 class="mt-2">COMING SOON</h5>
           <!-- <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
@@ -47,9 +47,9 @@
   <div class="heading text-center my-5 container py-3" style="background-color: #3a3a3a;">
     <h2>Contact Us</h2>
     <p>For any queries relating to speaker sessions, do reach out to us at <span><a href="mailto:publicrelations@ecellvnit.co.in" style="color: red;">publicrelations@ecellvnit.co.in</a></span></p>
-    <div class="row align-items-center">
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="../../img/team/Jay.jpg" alt="">
+    <div class="row align-items-center mx-auto" style="max-width: 90%;">
+     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="width: 280px;">
+       <img src="../../img/team/Jay.jpg" alt="" style="width: 280px;">
        <h5 class="mt-2">Jay Chheda</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Public Relations</h6>
@@ -60,8 +60,8 @@
        <div class="phone">+91 98700 36145</div>
      </div>
 
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="../../img/team/Snehal.jpg" alt="">
+     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="width: 280px;">
+       <img src="../../img/team/Snehal.jpg" alt="" style="width: 280px;">
        <h5 class="mt-2">Snehal Patil</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Public Relations</h6>

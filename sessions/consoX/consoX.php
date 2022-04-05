@@ -21,14 +21,14 @@
         <h6 class="my-2 pb-3 desig">24th Lt. Governor Puducherry</h6>
     </div>
 
-    <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+    <div class="col-12 col-md-6 col-lg-4 speakercard mx-4 d-none d-lg-block">
         <img style="width:300px; height:300px;" src="../../img/coming soon.png" alt="">
         <h5 class="mt-2">COMING SOON</h5>
           <!-- <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;"> -->
           <!-- <h6 class="my-2 desig pb-3">Director & Head of Product, Twitter</h6> -->
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4 d-none d-lg-block">
         <img style="width:300px; height:300px;" src="../../img/coming soon.png" alt="">
         <h5 class="mt-2">COMING SOON</h5>
           <!-- <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
