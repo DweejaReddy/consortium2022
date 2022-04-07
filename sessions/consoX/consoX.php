@@ -15,7 +15,7 @@
   <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">
   <div class="row align-items-center container1 text-center mx-auto" style="max-width: 90%;">
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-      <img style="width:300px; height:300px;" src="../../img/speakers_new/kiran.jpg" alt="">
+      <img style="width:300px; height:300px;" src="../../img/speakers_new/Kiran.jpg" alt="">
       <h5 class="mt-2">DR. KIRAN BEDI</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
         <h6 class="my-2 pb-3 desig">24th Lt. Governor Puducherry</h6>
