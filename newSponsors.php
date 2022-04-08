@@ -53,7 +53,7 @@
       <img src="img/sponsors/living things.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-width: 90%;max-height:90%" src="img/sponsors/cyclotron.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 90%;max-height:90%" src="img/sponsors/Cyclotron welding tables.png" alt="">
     </div>
     <!-- <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/sponsors/hp.png" alt="">
