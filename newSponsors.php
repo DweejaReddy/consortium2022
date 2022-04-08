@@ -23,19 +23,19 @@
        <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/Amazon_Web_Services-Logo.wine.png" alt="">
      </div>
      <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/canara-bank-logo-freelogovectors.net_.png" alt="">
+      <img class="mx-auto my-auto" style="max-height:45%;" src="img/sponsors/canara-bank-logo-freelogovectors.net_.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img  src="img/sponsors/digital-innovations.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-width: 70%;max-height:70%" src="img/sponsors/headstart.png" alt="">
+      <img class="mx-auto my-auto" style="max-height:45%" src="img/sponsors/headstart.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card  mx-4">
-      <img class="mx-auto my-auto" style="max-width: 70%" src="img/sponsors/ekatra.png" alt="">
+      <img class="mx-auto my-auto" style="max-width: 90%;max-height:90%;" src="img/sponsors/ekatra.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4 align-items-center">
-      <img class="mx-auto my-auto" style="max-width: 80%;max-height:50%" src="img/sponsors/ibentos logo- black.png" alt="" width="204px">
+      <img class="mx-auto my-auto" style="max-height:40%" src="img/sponsors/ibentos logo- black.png" alt="" width="204px">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/images.png" alt="">
@@ -44,18 +44,18 @@
       <img class="mx-auto my-auto" style="max-width: 80%;max-height:80%" src="img/sponsors/ims-logo-400.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-width: 100%;max-height:80%;" src="img/sponsors/Trade MArk_Black_TFM_Circle (1).png" alt="">
+      <img class="mx-auto my-auto" style="max-height:50%;" src="img/sponsors/Trade MArk_Black_TFM_Circle (1).png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img class="mx-auto my-auto" style="max-width: 80%;max-height:80%"  src="img/sponsors/MOIL_(company).svg.png" alt="">
     </div>
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
+      <img src="img/sponsors/living things.png" alt="">
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
+      <img class="mx-auto my-auto" style="max-width: 90%;max-height:90%" src="img/sponsors/cyclotron.jpg" alt="">
+    </div>
     <!-- <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/makeinindia.jpg" alt="">
-    </div>
-    <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/moil.jpg" alt="">
-    </div>
-    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/sponsors/hp.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
