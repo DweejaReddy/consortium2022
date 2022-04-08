@@ -29,7 +29,7 @@
       <img  src="img/sponsors/digital-innovations.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-height:45%" src="img/sponsors/headstart.png" alt="">
+      <img class="mx-auto my-auto" style="max-height:45%" src="img/sponsors/headstart1.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card  mx-4">
       <img class="mx-auto my-auto" style="max-width: 90%;max-height:90%;" src="img/sponsors/ekatra.png" alt="">
