@@ -5,13 +5,13 @@
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon_io/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="img/favicon_io/favicon-16x16.png">
 <link rel="manifest" href="img/favicon_io/site.webmanifest">
-    <title>Past Sponsors | Consortium 22 | E-CELL,VNIT</title>
+    <title>Sponsors | Consortium 22 | E-CELL,VNIT</title>
 </head>
 <?php include('includes/header.php')?>
 <body>
 
    <div class="container heading mt-4 mb-1 py-4 text-center">
-     <h1>PAST SPONSORS</h1>
+     <h1>CONSORTIUM'22 SPONSORS</h1>
      <p>For any sponsorship related queries, do reach out to us at <span style="color: red;">corporate@ecellvnit.org</span></p>
    </div>
 
@@ -20,36 +20,36 @@
 
    <div class="row align-items-center container1 text-center mx-auto" style="max-width: 85%;">
      <div class="col-12 col-md-6 col-lg-4 card mx-4">
-       <img src="img/sponsors/op.jpg" alt="">
+       <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/Amazon_Web_Services-Logo.wine.png" alt="">
      </div>
      <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/azure.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/canara-bank-logo-freelogovectors.net_.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/imerys.png" alt="">
+      <img  src="img/sponsors/digital-innovations.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/cola.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 70%;max-height:70%" src="img/sponsors/headstart.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card  mx-4">
-      <img src="img/sponsors/bb.png" alt="">
+      <img class="mx-auto my-auto" style="max-width: 70%" src="img/sponsors/ekatra.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4 align-items-center">
-      <img src="img/sponsors/coal.png" alt="" width="204px">
+      <img class="mx-auto my-auto" style="max-width: 80%;max-height:50%" src="img/sponsors/ibentos logo- black.png" alt="" width="204px">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/pnaf.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 80%" src="img/sponsors/images.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/Digital-india-black.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 80%;max-height:80%" src="img/sponsors/ims-logo-400.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/swiggy.jpg" alt="">
+      <img class="mx-auto my-auto" style="max-width: 100%;max-height:80%;" src="img/sponsors/Trade MArk_Black_TFM_Circle (1).png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/sponsors/startupindia.png" alt="">
+      <img class="mx-auto my-auto" style="max-width: 80%;max-height:80%"  src="img/sponsors/MOIL_(company).svg.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card mx-4">
+    <!-- <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/sponsors/makeinindia.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
@@ -81,7 +81,7 @@
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/sponsors/desi.png" alt="">
-    </div>
+    </div> -->
    </div>
 
    <span><img src="img/wireframe2.png" alt="" height="700px" style="position: relative;filter: brightness(50%);transform: rotate(-120deg);margin-bottom:-700px;left:120px;bottom:480px;z-index:-1;"></span>

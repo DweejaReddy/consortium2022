@@ -68,7 +68,7 @@
               Sponsors
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item text-center text-white disabled" href="newSponsors.php" target="_blank">Consortium'22 Sponsors</a>
+              <a class="dropdown-item text-center text-white" href="newSponsors.php" target="_blank">Consortium'22 Sponsors</a>
               <a class="dropdown-item text-center text-md-left text-white" href="pastSponsors.php" target="_blank">Previous Sponsors</a>
             </div>
           </li>
