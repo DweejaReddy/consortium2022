@@ -68,7 +68,7 @@
       <img class="my-auto" style="max-width: 100%; height: auto;" src="img/sponsors/radisson.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="my-auto mx-auto" style="max-width: 60%; height: auto;" src="img/sponsors/veracity.png" alt="">
+      <img class="my-auto mx-auto" style="max-height: 35%;" src="img/sponsors/veracity2.jpeg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img class="my-auto" style="max-width: 100%; height: auto;" src="img/sponsors/pnaf.jpg" alt="">
