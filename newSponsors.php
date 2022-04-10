@@ -56,7 +56,7 @@
       <img class="mx-auto my-auto"  src="img/sponsors/Cyclotron.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img class="mx-auto my-auto" style="max-height:35%" src="img/sponsors/veracity2.jpeg" alt="">
+      <img class="mx-auto my-auto" style="max-height:30%" src="img/sponsors/veracity3.jpeg" alt="">
     </div>
     <!-- <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/sponsors/indianoil.png" alt="">
